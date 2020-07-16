@@ -1,0 +1,24 @@
+{
+  "name": "hexagonal-grid-js",
+  "version": "0.0.1",
+  "description": "Make your own hexagonal grids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfouz/hexagonal-grid-js.git"
+  },
+  "keywords": [
+    "hexagonal",
+    "grid",
+    "javascript"
+  ],
+  "author": "alfouz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alfouz/hexagonal-grid-js/issues"
+  },
+  "homepage": "https://github.com/alfouz/hexagonal-grid-js#readme"
+}
