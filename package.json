@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/alfouz/hexagonal-grid-js/issues"
   },
-  "homepage": "https://github.com/alfouz/hexagonal-grid-js#readme"
+  "homepage": "https://github.com/alfouz/hexagonal-grid-js#readme",
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
 }
